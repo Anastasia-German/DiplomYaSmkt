@@ -1,0 +1,11 @@
+# игнорировать файлы
+.pytest/
+venv/
+.idea/
+.pytest_cache/
+pycache/
+__pycache__/
+
+
+# игнорировать все файлы с расширением .doc
+*.doc
